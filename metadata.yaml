@@ -1,0 +1,38 @@
+_repo: Lords-of-the-World--A-story-of-the-fall-of-Carthage-and-Corinth_41464
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Peacock, Ralph
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '8455'
+    url: http://www.gutenberg.org/2009/agents/8455
+covers:
+- cover_type: archival
+  image_path: 41464-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Church, Alfred John
+    alias: Church, Alfred J.
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41464'
+  lccn: '29025281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Corinth (Greece) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Carthage (Extinct city) -- Fiction'
+title: 'Lords of the World: A story of the fall of Carthage and Corinth'
+url: http://www.gutenberg.org/ebooks/41464
